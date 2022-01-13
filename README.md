@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @INT2ECALL
 - 👀 I’m interested in pwn
-- 📫 wechat : bit6888
 
 <!---
 INT2ECALL/INT2ECALL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
